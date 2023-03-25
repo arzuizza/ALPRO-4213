@@ -1,5 +1,6 @@
     #include <iostream>
     using namespace std;
+//lupa kasih namespace hahaha
     bool isOdd(int number) {
         if (number % 2 == 1) {
             return true;
